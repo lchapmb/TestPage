@@ -21,6 +21,6 @@
 Horizontal rule
 ---
 
-[A link](https://www.example.com)
+[A link](testpage/about)
 
 ![alt text](test%20image.png)
